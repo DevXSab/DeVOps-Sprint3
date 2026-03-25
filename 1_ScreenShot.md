@@ -13,7 +13,8 @@
 <img width="430" height="101" alt="image" src="https://github.com/user-attachments/assets/c63b3544-639f-4db2-bf8d-794eaf76ab4e" />
 
 **Работа terraform**
-**До запуска **
+
+**До запуска**
 
 <img width="1213" height="487" alt="image" src="https://github.com/user-attachments/assets/3d1ca715-52aa-40f1-8bef-201644470cee" />
 
