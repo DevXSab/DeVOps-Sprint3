@@ -1,5 +1,13 @@
 **Отображение проблем Zabbix**
-![[Pasted image 20260325104655.png]]**Отображение Grafana**
-![[Pasted image 20260325104836.png]]
+
+<img width="1526" height="188" alt="image" src="https://github.com/user-attachments/assets/3c180736-9f9f-42aa-b34a-0b8c3e1ce825" />
+
+
+**Отображение Grafana**
+
+<img width="189" height="231" alt="image" src="https://github.com/user-attachments/assets/7b78b231-1d2c-406b-86c3-45387f770c29" />
+
+
 **Уведомление в ТГ**
-![[Pasted image 20260325104936.png]]
+
+<img width="430" height="101" alt="image" src="https://github.com/user-attachments/assets/c63b3544-639f-4db2-bf8d-794eaf76ab4e" />
